@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "workbench.colorTheme": "Default Dark+",
+    "window.autoDetectColorScheme": true,
+    "terminal.integrated.minimumContrastRatio": 7
+}
