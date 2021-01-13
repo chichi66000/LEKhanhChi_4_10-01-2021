@@ -1134,3 +1134,10 @@ img{
 .linkSocial{
     width:100%;
 }
+.social .fa{
+    color:white;
+}
+.social .fa:hover,
+.social .fa:focus{
+    opacity:0.8;
+}
