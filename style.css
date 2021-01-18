@@ -1098,31 +1098,7 @@ img{
 .d-bloc p a:focus {
     color: rgba(255, 255, 255, 1);
 }
-/*style pour formulaire */
 
-
-.form-group{
-    width: 100%;
-    margin: auto;
-    margin-bottom: 0.5rem;
-    padding: 0.5rem;
-}
-.form_label{
-    display:block;
-    width: 40%;
-    float:left;
-}
-.form-control{
-    text-align: left;
-    vertical-align: center;
-}
-.envoyer{
-    margin: 0.5rem auto 0.5rem auto;
-    width: 100%;
-}
-#message{
-    width: 50%;
-}
 /*style pour icon resau social*/
 .social{
     width:20%;
