@@ -19,6 +19,7 @@ button {
 a:hover , a:focus {
     text-decoration: none;
     cursor: pointer;
+    color:rgb(54, 7, 224);
 }
 
 #page-loading-blocs-notifaction {
@@ -153,7 +154,7 @@ a:hover , a:focus {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgb(80, 7, 197);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -821,7 +822,7 @@ img{
 .btn-atomic-tangerine:hover,
 .btn-atomic-tangerine:focus {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: rgb(54, 7, 224)!important;
 }
 
 .ltc-white {
@@ -830,7 +831,7 @@ img{
 
 .ltc-white:hover,
 .ltc-white:focus {
-    color: #cccccc!important;
+    color: #4d07ce!important;
 }
 
 .ltc-atomic-tangerine {
@@ -1116,4 +1117,14 @@ img{
 .social .fa:hover,
 .social .fa:focus{
     opacity:0.8;
+   color: rgb(91, 68, 129)!important;
+}
+.photo_logo:hover ,
+.photo_logo:focus {
+    opacity:0.6;
+    box-shadow:#cccccc;
+}
+.link_color:hover , 
+.link_color:focus{
+    color:rgb(54, 7, 224)!important;
 }
